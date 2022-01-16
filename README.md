@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, ReactJs, NodeJs, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RM6501](https://github.com/Rohan-Makwana)
+- 👨‍💻 All of my projects are available at [https://github.com/Rohan-Makwana](https://github.com/Rohan-Makwana)
 
 - 📫 How to reach me **makwanarohan0@gmail.com**
 
