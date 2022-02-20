@@ -1,4 +1,5 @@
-<h1 align="center"> Hi!! 🙋‍♂️, I'm Rohan Makwana</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&color=%23F7F7F7&size=36&center=true&vCenter=true&width=1280&lines=Hi!+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Rohan+Makwana)](https://git.io/typing-svg)
+
 <h3 align="center">A computer engineering student & an aspiring software developer from Mumbai,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm6501&label=Profile%20views&color=0e75b6&style=flat" alt="rm6501" /> </p>
