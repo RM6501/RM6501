@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm6501&label=Profile%20views&color=0e75b6&style=flat" alt="rm6501" /> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJs, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Nextjs, ReactJs, NodeJs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-Makwana](https://github.com/Rohan-Makwana)
 
